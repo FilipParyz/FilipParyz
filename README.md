@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm a developer with passion for hardware. It started with Arduino and now I work on industrial 3D Printers, to allow companies realise their projects with ease.
-Aside from my work I study part-time to become an Engineer.
-In my free time I'm improving my ergonomics by creating my 3D printed mechanical keyboard running modified open source firmware, while drinking speciality coffee.
+I'm a developer with a passion for hardware. It started with blinking LEDs using Arduino and now I work on industrial projects insuring safety and reliability, while caring for the top class performance.
+Aside from my work I study part-time to achieve Higher Education.
+In my free time I'm brewing a cup of specialty coffee and improve my ergonomics by creating my 3D printed mechanical keyboard running modified open source firmware.
 
 - 🔭 I’m currently working on my mechanical keyboard running QMK (https://github.com/qmk/qmk_firmware)
 - 🌱 I’m currently learning C++
